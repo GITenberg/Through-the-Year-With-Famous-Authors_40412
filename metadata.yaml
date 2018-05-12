@@ -1,0 +1,25 @@
+_repo: Through-the-Year-With-Famous-Authors_40412
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Patterson, Mabel
+    gutenberg_agent_id: '41356'
+    url: http://www.gutenberg.org/2009/agents/41356
+description: ''
+gutenberg_issued: '2013-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40412'
+  lccn: '25021818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bio-bibliography'
+- !lcc 'Z'
+title: Through the Year with Famous Authors
+url: http://www.gutenberg.org/ebooks/40412
